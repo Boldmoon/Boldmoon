@@ -1,5 +1,5 @@
 # 👋 Hi There, About Me:
-🧑‍🎓 AS level student<br>⏰ I code once in a while, not very active on GitHub<br>🔭 Currently developing an MQTT-based universal controller<br>🌱 Currently learning Flutter and Dart<br>🌐 On the side, working on my start up brand [Habril](https://habril.com/).
+🧑‍🎓 AS level student<br>⏰ Not very active on GitHub<br>🔭 Currently developing an MQTT-based universal controller<br>🌱 Currently learning Flutter and Dart<br>🌐 On the side, working on my start up brand [Habril](https://habril.com/).
 
 
 ## 🌐 Socials:
