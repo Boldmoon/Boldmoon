@@ -1,5 +1,5 @@
 # 👋 Hi There, About Me:
-🧑‍🎓 AS level student<br>⏰ Not very active on GitHub<br>🔭 Currently developing an MQTT-based IOT platform<br>🌱 Currently learning React and Next JS<br>🌐 On the side, working on my start up [Habril](https://habril.com/).
+🧑‍🎓 A level student<br>⏰ Not very active on GitHub<br>🔭 Currently developing an MQTT-based IOT platform<br>🌱 Currently learning React and Next JS<br>🌐 On the side, working on my start up [Habril](https://habril.com/).
 
 
 ## 🌐 Socials:
