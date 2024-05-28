@@ -1,6 +1,6 @@
 # 👋 Hi There, About Me:
-🧑‍🎓 A level student<br>⏰ Rarely active on GitHub<br>🔭 Currently developing an MQTT-based IOT platform<br>🌱 Currently learning React and Next.js
-<br>🌐 On the side, working on my start up [Habril](https://habril.com/).
+🧑‍🎓 A level student<br>⏰ Rarely active on GitHub<br>🔭 Currently developing a MQTT-based IOT platform<br>🌱 Currently learning React and Next.js
+<br>🌐 On the side, working on my start-up [Habril](https://habril.com/).
 
 
 ## 🌐 Socials:
